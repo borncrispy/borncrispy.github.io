@@ -1,0 +1,12 @@
+.fa {
+    padding: 15px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+  }
+    
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
